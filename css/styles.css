@@ -26,3 +26,30 @@
 img{
   width: 50%;
 }
+
+
+.dark-background {
+  background-color: black;
+}
+
+.light-background {
+  background-color: blue;
+}
+
+.inside-dark{
+  .green-background {
+    background-color: green;
+  }
+}
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.buttonsBecomeDark {
+  display: none;
+}
