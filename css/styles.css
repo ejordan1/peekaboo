@@ -2,6 +2,18 @@
   display: none;
 }
 
+#walrus-fadeout {
+  display: none;
+}
+
+#walrus-slideout {
+  display: none;
+}
+
+#peekabooshow{
+  display: none;
+}
+
 .clickable {
   cursor: pointer;
   color: #0088cc;
